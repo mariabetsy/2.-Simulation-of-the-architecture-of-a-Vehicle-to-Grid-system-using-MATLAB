@@ -83,7 +83,6 @@ xlabel('Time (minutes)');
 ylabel('Net Grid Power (kW)');
 title('Grid Power After V2G Compensation'); grid on;
 ```
-
 ## Output
 <img width="711" height="633" alt="image" src="https://github.com/user-attachments/assets/1e6c0c54-1ba0-454a-b3b0-1c2e38fafc45" />
 
